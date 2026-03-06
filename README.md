@@ -25,7 +25,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhathuy09&show_icons=true&theme=tokyonight&count_private=true" alt="Huy's GitHub stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nhathuy09&show_icons=true&theme=tokyonight" alt="Huy's Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhathuy09&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
 </p>
 
