@@ -1,9 +1,4 @@
 # Hi there, I'm Võ Nhật Huy 👋 🚀
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Welcome%20to%20my%20Github&fontSize=70" />
-</p>
-
 ### 👨‍💻 About Me
 - 🎓 I'm a Developer passionate about **Embedded Systems**, **IoT**, and **Web Development**.
 - 🔭 Currently working on: **Smart Home AI Multi Agents** and **E-commerce Web Systems**.
